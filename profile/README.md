@@ -45,7 +45,7 @@ Kami memiliki tiga peran utama dalam komunitas ini untuk memastikan forum berjal
 Baru pertama kali di sini? Ikuti langkah-langkah mudah ini untuk memulai perjalanan Anda bersama kami:
 
 1.  **Perkenalkan Diri Anda!**
-    Kunjungi [**Forum Diskusi**](https://github.com/Ratio-Code-Club/.github/discussions) kami dan buat postingan baru di kategori **"👋 Perkenalan"**. Ceritakan sedikit tentang diri Anda, kelas/angkatan berapa, dan apa yang ingin Anda pelajari!
+    Kunjungi [**Forum Diskusi**](https://github.com/Ratio-Code-Clube/.github/discussions) kami dan buat postingan baru di kategori **"👋 Perkenalan"**. Ceritakan sedikit tentang diri Anda, kelas/angkatan berapa, dan apa yang ingin Anda pelajari!
 
 2.  **Jelajahi Topik yang Ada**
     Lihat diskusi yang sedang berlangsung. Mungkin ada pertanyaan yang bisa Anda jawab atau topik yang menarik minat Anda. Jangan malu untuk terlibat!
