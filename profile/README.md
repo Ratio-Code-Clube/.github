@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ratio-Code-Club/Komunitas/discussions"><strong>Forum Diskusi</strong></a> •
+  <a href="https://github.com/Ratio-Code-Clube/Komunitas/discussions"><strong>Forum Diskusi</strong></a> •
   <a href="#-struktur-keanggotaan"><strong>Struktur Anggota</strong></a> •
   <a href="#-bagaimana-memulai"><strong>Cara Bergabung</strong></a>
 </p>
+
 
 ---
 
