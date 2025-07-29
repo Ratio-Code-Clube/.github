@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ratio-Code-Club/komunitas/discussions"><strong>Forum Diskusi</strong></a> •
+  <a href="https://github.com/Ratio-Code-Club/Komunitas/discussions"><strong>Forum Diskusi</strong></a> •
   <a href="#-struktur-keanggotaan"><strong>Struktur Anggota</strong></a> •
   <a href="#-bagaimana-memulai"><strong>Cara Bergabung</strong></a>
 </p>
@@ -34,7 +34,7 @@ Kami memiliki tiga peran utama dalam komunitas ini untuk memastikan forum berjal
 
 | Peran | Deskripsi | Cara Bergabung |
 | :--- | :--- | :--- |
-| 👤 **Member** | Peran awal untuk semua siswa dan alumni. Anda bisa bertanya, menjawab, berdiskusi di forum, dan belajar dari semua proyek *open-source* kami. | Cukup bergabung dengan organisasi GitHub kami. |
+| 👤 **Member** | Peran awal untuk semua siswa dan alumni. Anda bisa bertanya, menjawab, berdiskusi di forum, dan belajar dari semua proyek *open-source* kami. | Mengisi Gform untuk mendaftarkan diri anda. |
 | ✍️ **Kontributor** | Member yang telah menunjukkan minat dan kemampuannya, diberi akses untuk berkontribusi langsung pada kode proyek-proyek kami. | Aktif berdiskusi, membuat *Pull Request*, dan tunjukkan inisiatif Anda! |
 | 🛡️ **BPH (Pengurus)** | Tim inti yang mengelola organisasi, mengarahkan kegiatan, dan memastikan komunitas tetap menjadi tempat yang positif dan aman untuk belajar. | Dipilih secara internal berdasarkan kontribusi dan komitmen. |
 
