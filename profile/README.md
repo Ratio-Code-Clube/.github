@@ -54,7 +54,5 @@ Baru pertama kali di sini? Ikuti langkah-langkah mudah ini untuk memulai perjala
 3.  **Lihat Proyek Kami**
     Cek repositori kami untuk melihat proyek-proyek yang sedang atau sudah dikerjakan. Semua kode kami bersifat *open-source*, artinya Anda bebas untuk melihat, mempelajari, dan bahkan mencobanya di komputer Anda.
 
-4.  **Baca Aturan Main**
-    Untuk menjaga kenyamanan bersama, pastikan Anda membaca [**Kode Etik Komunitas**](https://github.com/Ratio-Code-Club/Komunitas/blob/main/CODE_OF_CONDUCT.md) kami.
 
 Kami sangat senang Anda ada di sini. Mari kita bangun sesuatu yang hebat bersama untuk MAN 2 Pamekasan!
