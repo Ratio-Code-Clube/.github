@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174092067?s=200&v=4" width="150" alt="Logo Ratio Code Club">
+
+  <img width="150" alt="Logo Ratio Code Club" src="https://github.com/user-attachments/assets/b1b8dd70-f54d-40cb-a6ff-833d61dbaf19" />
+  
 </p>
+
 
 <h1 align="center">Selamat Datang di Ratio Code Club!</h1>
 
