@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="150" alt="Logo Ratio Code Club" src="https://github.com/user-attachments/assets/b1b8dd70-f54d-40cb-a6ff-833d61dbaf19" />
+  <img width="300" alt="Logo Ratio Code Club" src="https://github.com/user-attachments/assets/b1b8dd70-f54d-40cb-a6ff-833d61dbaf19" />
   
 </p>
 
